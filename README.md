@@ -1,4 +1,4 @@
-# apache-tomcat-9.0-CIS-Benchmark-script
+# Apache Tomcat 9.0 CIS Benchmark script
 Apache Tomcat 9.0 CIS Benchmark Automation Script
 
 This would run mostly all the audit points specified in the Official CIS Benchmark PDF.
